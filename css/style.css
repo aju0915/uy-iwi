@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+} 
+.hey
+{
+    background-color: #B36050;
+}
+.shop{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    gap: 20px;
+    padding-left: 120px;
+}
+.on{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F2F2F2;
+}
+.acc{ display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    gap: 20px;
+    padding-right: 120px;
+
+}
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 220px;
+}
+.png{
+    width: 100%;
+}
+.mine{display: flex;
+    align-items: center;
+   
+    gap: 20px;
+}
+.cardss{display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 40px;
+
+}
+#img{ margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    gap: 30px;
+}
+#hero{
+    background-color:#F1D3B9;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+.ser{
+    width: 600px;
+    height: 750px;
+    background-color:  #F8F8F8;
+  
+    
+}
+.dae{
+    padding: 124px;
+}
+.cec{
+    padding: 96px;
+}
+.we{
+    padding: 20px;
+}
+.re{
+    padding: 20px;
+}
+.asa{display: flex;
+    align-items: center;
+    justify-content: space-between
+
+} 
+.er{display: flex;
+    align-items: center;
+    justify-content: space-between
+
+}
+.cla{display: flex;
+ 
+    padding: 30px;
+    gap: 7px;
+
+}
+.fe{
+    padding: 30px;
+}
+.seub{list-style: none; display: flex;
+
+} 
+
+
+
